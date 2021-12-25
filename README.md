@@ -4,6 +4,7 @@
 ## Usage
 ![ss](./screenshot.png)
 ## Installation
-  # npm install
-  # npm start
+  ### npm install
+  ### npm start
+  
   
